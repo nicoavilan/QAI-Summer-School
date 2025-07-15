@@ -6,3 +6,4 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 - S1: Qubits and superposition
 - S2: Mathematical representation of qubits and their measurements
 - S3: Quantum gates and entanglement
+- S4: Practical session with qiskit - quantum circuits
