@@ -5,3 +5,4 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 **Foundations of Quantum Computing – Google Colab Notebooks:**
 - S1: Qubits and superposition
 - S2: Mathematical representation of qubits and their measurements
+- S3: Quantum gates and entanglement
