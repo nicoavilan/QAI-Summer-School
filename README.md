@@ -8,3 +8,4 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 - S3: Quantum gates and entanglement
 - S4: Practical session with qiskit - quantum circuits
 - S5: Grover's algorithm
+- S6: Shor's algorithm
