@@ -9,3 +9,5 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 - S4: Practical session with qiskit - quantum circuits
 - S5: Grover's algorithm
 - S6: Shor's algorithm
+- S7: Quantum Fourier Transform (QFT)
+- S8: Information theory
