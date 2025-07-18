@@ -12,3 +12,4 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 - S7: Quantum Fourier Transform (QFT)
 - S8: Information theory
 - S9: Quantum Teleportation
+- S10: The CHSH game
