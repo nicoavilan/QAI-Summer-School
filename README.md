@@ -11,3 +11,4 @@ This repository contains the notebooks for the course **Foundations of Quantum C
 - S6: Shor's algorithm
 - S7: Quantum Fourier Transform (QFT)
 - S8: Information theory
+- S9: Quantum Teleportation
